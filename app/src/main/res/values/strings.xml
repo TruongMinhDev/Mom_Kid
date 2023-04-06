@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mom&amp;Kid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trang Chủ</string>
+    <string name="menu_schedule">Lịch Trình</string>
+    <string name="menu_increase">Thống Kê</string>
+    <string name="menu_blog">Blog</string>
+    <string name="menu_book">Đặt Lịch Hẹn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
