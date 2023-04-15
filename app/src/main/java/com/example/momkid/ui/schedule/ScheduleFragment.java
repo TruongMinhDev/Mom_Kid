@@ -24,8 +24,6 @@ public class ScheduleFragment extends Fragment {
         binding = FragmentScheduleBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSchedule;
-        scheduleViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

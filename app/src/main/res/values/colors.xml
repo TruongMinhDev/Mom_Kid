@@ -9,4 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="endcolor">#01f1fa</color>
     <color name="startColor">#0189ff</color>
+    <color name="xam">#F3E4E4</color>
+    <color name="lavender">#8692f7</color>
+    <color name="pink">#FFD0E1</color>
+    <color name="nono">#F5FFFA</color>
+    <color name="background">#F5F5F5</color>
 </resources>

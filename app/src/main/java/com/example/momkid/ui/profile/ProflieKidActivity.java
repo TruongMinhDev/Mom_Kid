@@ -1,4 +1,4 @@
-package com.example.momkid.ui.profilekid;
+package com.example.momkid.ui.profile;
 
 import androidx.appcompat.app.AppCompatActivity;
 
